@@ -95,6 +95,18 @@ body {
 .beard {
   margin-top: 2%;
   width: 100vw;
-  background-color: grey: ;
+  background-color: #b9b3b3;
   height: 50vw;
+  position: relative;
+  display: flex;
+  justify-content: center;
+}
+
+.mouth {
+  background-color: #a91212;
+  width: 10vw;
+  height: 10vw;
+  border-radius: 50%;
+  position: absolute;
+  margin-top: 8vw;
 }
